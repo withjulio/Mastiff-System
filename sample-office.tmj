@@ -559,12 +559,12 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"office.png"
+         "value":"sample-office.png"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Sample Office"
         }, 
         {
          "name":"script",
@@ -572,7 +572,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.2",
  "tileheight":32,
  "tilesets":[
         {
